@@ -22,6 +22,8 @@ Installer AirWatch
 
 ## Install Chrome
 
+	brew cask install google-chrome
+
 ## Install Sublime
 
 ## Base package
