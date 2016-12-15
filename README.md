@@ -6,8 +6,6 @@
 
 ## Reinstall latest MacOs
 
-## Configure clavier
-
 ## Configure Souris/Trackpad
 
 ## Configure TimeMachine
