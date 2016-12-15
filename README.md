@@ -24,6 +24,10 @@ Installer AirWatch
 
 ## Install Sublime
 
+## Base package
+
+	brew cask install sublime-text
+
 ### Package
 
 ### Anaconda
