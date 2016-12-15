@@ -56,6 +56,7 @@ Lancer ensuite la commande :
 ## Install Postgresql
 
 	brew install postgresql
+	brew services start postgresql
 
 ## Install PostGIS
 
