@@ -1,51 +1,71 @@
 # mac_howto
 
-Install MacOs
-Partition Disk
-Reinstall latest MacOs
-Configure clavier
-Configure Souris/Trackpad
-Configure TimeMachine
+## Install MacOs
 
-AirWatch
+## Partition Disk
+
+## Reinstall latest MacOs
+
+## Configure clavier
+
+## Configure Souris/Trackpad
+
+## Configure TimeMachine
+
+## AirWatch
+
 	Demander à faire parti du groupe ActiveDirectory 'CoreConnect'
 	Télécharger l'agent sur : https://awagent.com
 	Installer AirWatch
 
-FileVault
+## FileVault
+
 	RH7H-OCTE-U9EH-ZGDV-FAG7-B448
 
+## Install Chrome
 
-Install Chrome
-Install Sublime
-	Package
-	Anaconda
-	git
-	gitgutter
-	terminal
-	configure user profil
+## Install Sublime
 
-Install XCode Command Line Tools
+### Package
+
+### Anaconda
+
+### git
+
+### gitgutter
+
+### terminal
+
+### configure user profil
+
+## Install XCode Command Line Tools
+
 	xcode-select --install
-	=> this provides git
 
-Install Brew
+=> this provides git
+
+## Install Brew
+
 	ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 	brew update
 
-Install Python3
+## Install Python3
+
 	brew install python3
 
 
-Install Postgresql
+## Install Postgresql
+
 	brew install postgresql
 
-Install PostGIS
+## Install PostGIS
+
 	brew install postgis
 
 
-Create SSH Keys
-	follow https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+## Create SSH Keys
+
+Follow https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 
 	ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 	ssh-add ~/.ssh/id_rsa
