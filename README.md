@@ -75,7 +75,7 @@ Taper la commande suivante dans un terminal en _**modifiant l'adresse email**_ :
 
 	ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 	
-Ne pas mettre de "passphrase" et valider avec <ENTER>.
+Ne pas mettre de "passphrase" et valider.
 
 Lancer ensuite la commande :
 
