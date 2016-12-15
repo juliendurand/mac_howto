@@ -18,8 +18,6 @@
 
 ## FileVault
 
-	RH7H-OCTE-U9EH-ZGDV-FAG7-B448
-
 ## Install Chrome
 
 ## Install Sublime
