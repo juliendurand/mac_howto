@@ -10,11 +10,13 @@
 
 ## Configure TimeMachine
 
+## Configure the Finder
+
 ## AirWatch
 
-	Demander à faire parti du groupe ActiveDirectory 'CoreConnect'
-	Télécharger l'agent sur : https://awagent.com
-	Installer AirWatch
+Demander à faire parti du groupe ActiveDirectory 'CoreConnect'
+Télécharger l'agent sur : https://awagent.com
+Installer AirWatch
 
 ## FileVault
 
@@ -66,9 +68,10 @@ Follow https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-t
 	ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 	ssh-add ~/.ssh/id_rsa
 
+## Install VirtualBox
 
+## Install OneDrive
 
+## Install Lync
 
-TODO
-AirWatch
-VirtualBox
+## Install MS Office for Mac
