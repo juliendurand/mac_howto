@@ -152,6 +152,14 @@ Dans sublime :
 	cmd+shift+p
 	Package Control : Install Package
 	terminal
+	
+### Markdown Preview
+
+Dans sublime :
+	
+	cmd+shift+p
+	Package Control : Install Package
+	Markdown Preview
 
 ## Install MS Office for Mac
 
