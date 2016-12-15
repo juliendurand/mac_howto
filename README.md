@@ -48,6 +48,10 @@ Lancer ensuite la commande :
 ## Installation de Chrome
 
 	brew cask install google-chrome
+	
+## Installation de R et RStudio
+
+	brew install Caskroom/cask/rstudio
 
 ## Install Python3
 
