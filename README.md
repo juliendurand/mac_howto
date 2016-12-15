@@ -65,13 +65,15 @@ Lancer ensuite la commande :
 
 	brew cask install virtualbox
 
-## Install Sublime
+## Install Sublime Text 3
 
 ## Base package
 
 	brew cask install sublime-text
 
-### Package
+### Package Control
+
+Suivre les instructions pour la version 3 sur cette [page](https://packagecontrol.io/installation#st3) afin d'installer le gestionnaire de package de Sublime Text 3.
 
 ### Anaconda
 
