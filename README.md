@@ -2,29 +2,68 @@
 
 ## Install MacOs
 
+### Reinstall latest MacOs (optionnal)
+
+## Configuration de la Souris
+
+## Configuration du Finder
+
 ## Partition Disk
 
-## Reinstall latest MacOs
+## Configuration TimeMachine
 
-## Configure Souris/Trackpad
-
-## Configure TimeMachine
-
-## Configure the Finder
+## FileVault
 
 ## AirWatch
 
-Demander à faire parti du groupe ActiveDirectory 'CoreConnect'.
+Il faut tout d'abord vérifier auprès de votre support IT que vous faites partie du groupe ActiveDirectory 'CoreConnect'.
 
 Télécharger l'agent sur : https://awagent.com
 
 Installer AirWatch
 
-## FileVault
+## Installation des XCode Command Line Tools
 
-## Install Chrome
+	xcode-select --install
+	
+The Command Line Tools provide many useful programs.
+
+## Create SSH Keys
+
+Taper la commande suivante dans un terminal en _**modifiant l'adresse email**_ :
+
+	ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+	
+Ne pas mettre de "passphrase" et valider.
+
+Lancer ensuite la commande :
+
+	ssh-add ~/.ssh/id_rsa
+
+## Installation de Brew
+
+	ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+	brew update
+	
+## Installation de Chrome
 
 	brew cask install google-chrome
+
+## Install Python3
+
+	brew install python3
+
+## Install Postgresql
+
+	brew install postgresql
+
+## Install PostGIS
+
+	brew install postgis
+
+## Install VirtualBox
+
+	brew cask install virtualbox
 
 ## Install Sublime
 
@@ -44,47 +83,8 @@ Installer AirWatch
 
 ### configure user profil
 
-## Install XCode Command Line Tools
-
-	xcode-select --install
-
-=> this provides git
-
-## Install Brew
-
-	ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-	brew update
-
-## Install Python3
-
-	brew install python3
-
-
-## Install Postgresql
-
-	brew install postgresql
-
-## Install PostGIS
-
-	brew install postgis
-
-
-## Create SSH Keys
-
-Taper la commande suivante dans un terminal en _**modifiant l'adresse email**_ :
-
-	ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
-	
-Ne pas mettre de "passphrase" et valider.
-
-Lancer ensuite la commande :
-
-	ssh-add ~/.ssh/id_rsa
-
-## Install VirtualBox
+## Install MS Office for Mac
 
 ## Install OneDrive
 
 ## Install Lync
-
-## Install MS Office for Mac
