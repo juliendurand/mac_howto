@@ -70,20 +70,54 @@ Lancer ensuite la commande :
 ## Base package
 
 	brew cask install sublime-text
+	
+### configure user profil
+
+TODO
 
 ### Package Control
 
 Suivre les instructions pour la version 3 sur cette [page](https://packagecontrol.io/installation#st3) afin d'installer le gestionnaire de package de Sublime Text 3.
 
+### SideBarEnhancements
+
+Dans sublime :
+	
+	cmd+shift+p
+	Package Control : Install Package
+	SideBarEnhancements
+
 ### Anaconda
+
+Dans sublime :
+	
+	cmd+shift+p
+	Package Control : Install Package
+	Anaconda
 
 ### git
 
+Dans sublime :
+	
+	cmd+shift+p
+	Package Control : Install Package
+	git
+
 ### gitgutter
+
+Dans sublime :
+	
+	cmd+shift+p
+	Package Control : Install Package
+	gitgutter
 
 ### terminal
 
-### configure user profil
+Dans sublime :
+	
+	cmd+shift+p
+	Package Control : Install Package
+	terminal
 
 ## Install MS Office for Mac
 
