@@ -1,4 +1,4 @@
-# mac_howto
+# Procédure d'installation d'un Mac Managé
 
 ## Install MacOs
 
