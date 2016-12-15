@@ -73,7 +73,36 @@ Lancer ensuite la commande :
 	
 ### configure user profil
 
-TODO
+Il est plus agréable de travailler avec une configuration spécialement conçue pour les développeurs. Pour cela aller dans le menu `Sublime Text > Preferences > Settings` et copier coller les paramètres suivants dans la partie droite de l'écran. Sauvegarder avec `cmd+S` et fermer la fenêtre.
+
+```json
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".DS_Store",
+		"__pycache__"
+	],
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		79
+	],
+	"shift_tab_unindent": true,
+	"show_line_endings": true,
+	"trim_trailing_white_space_on_save": true,
+	"wrap_width": 80
+}
+```
 
 ### Package Control
 
