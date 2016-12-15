@@ -14,8 +14,10 @@
 
 ## AirWatch
 
-Demander à faire parti du groupe ActiveDirectory 'CoreConnect'
+Demander à faire parti du groupe ActiveDirectory 'CoreConnect'.
+
 Télécharger l'agent sur : https://awagent.com
+
 Installer AirWatch
 
 ## FileVault
@@ -69,9 +71,14 @@ Installer AirWatch
 
 ## Create SSH Keys
 
-Follow https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+Taper la commande suivante dans un terminal en _**modifiant l'adresse email**_ :
 
 	ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+	
+Ne pas mettre de "passphrase" et valider avec <ENTER>.
+
+Lancer ensuite la commande :
+
 	ssh-add ~/.ssh/id_rsa
 
 ## Install VirtualBox
