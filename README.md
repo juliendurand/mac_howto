@@ -68,6 +68,10 @@ Installer AirWatch
 
 ![AirWatch 7](img/airwatch/img7.png)
 
+## Enroller votre Mac
+
+TODO
+
 ## Installation des XCode Command Line Tools
 
 Les outils de ligne de commande XCode fournissent une longue liste d'outils utile pour le terminal, en particulier git et les compilateurs C, C++, Fortran, ...
