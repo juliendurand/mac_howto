@@ -223,6 +223,10 @@ Dans sublime :
 
 TODO
 
+### Configurer la boîte de réception Outlook
+
+TODO
+
 ## Installation de OneDrive
 
 TODO
