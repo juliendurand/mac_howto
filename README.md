@@ -235,3 +235,8 @@ TODO
 ## Installation de Lync
 
 TODO
+
+## Installation du compte email
+
+server :
+https://outlook.office365.com/mapi/emsmdb/?MailboxId=a2e68415-ffe2-44d8-8f52-31cdb6a3a8b9@axa.fr
